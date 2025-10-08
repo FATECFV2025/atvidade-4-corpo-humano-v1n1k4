@@ -18,7 +18,7 @@ public class App {
  
         System.out.println("altura: "+a.getAltura());
  
-        System.out.println("IMC: "+a.calcularImc());
+        System.out.println("IMC: "+a.calcularIMC());
    
  
         double nova_altura = ler.nextDouble();
@@ -29,7 +29,7 @@ public class App {
 
         System.out.println("nova massa: "+a.getMassa());
         System.out.println("nova altura: "+a.getAltura());
-        System.out.println("novo imc: "+a.calcularImc());
+        System.out.println("novo imc: "+a.calcularIMC());
  
  
         ler.close();
