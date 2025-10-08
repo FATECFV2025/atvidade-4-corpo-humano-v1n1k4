@@ -12,7 +12,7 @@ public class App {
  
         System.out.println("massa: "+a.getMassa());
        
-        System.out.println("volume: "+a.getValume());
+        System.out.println("volume: "+a.getVolume());
  
         System.out.println("densidade: "+a.getDensidade());
  
