@@ -8,7 +8,7 @@ public class CorpoHumano {
     private double massa;
     public CorpoHumano(double massa, double volume, double densidade, double altura) {
         this.massa = massa;
-        this.valume = volume;
+        this.volume = volume;
         this.densidade = densidade;
         this.altura = altura;
  
