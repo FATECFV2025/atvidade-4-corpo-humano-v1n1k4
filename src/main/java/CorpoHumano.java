@@ -39,7 +39,7 @@ public class CorpoHumano {
         this.massa = massa;
  
     }
-    public double calcularImc(){
+    public double calcularIMC(){
         return massa/(altura*altura);
     }
  
